@@ -13,8 +13,6 @@ Este repositorio documenta el proceso de diseño de la interfaz del sistema *Boc
 - `/CHANGELOG.md`: registro técnico de versiones del diseño, con comparaciones entre wireframes y mockups.
 - `/README.md`: descripción general del proyecto y su evolución.
 
-> Las carpetas de justificación visual y capturas de versiones fueron retiradas tras consolidar el diseño en el mockup final. La documentación visual se encuentra integrada en el prototipo de media fidelidad.
-
 ## Versión actual
 
 **v2.0-ui**  
