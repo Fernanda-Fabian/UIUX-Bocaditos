@@ -15,7 +15,7 @@ Este repositorio documenta el proceso de diseño de la interfaz del sistema *Boc
 
 ## Versión actual
 
-**v2.0-ui**  
+**v1.0.0**  
 Última actualización: 6 de noviembre de 2025
 
 ## Historial técnico
