@@ -69,9 +69,7 @@ La tercera versión del mockup representa una recreación fiel y completa del wi
 - Se aplicó la paleta de colores por rol, tipografías jerarquizadas y componentes visuales coherentes.
 - Se respetó la estructura funcional del wireframe v2, incluyendo campos, navegación y distribución.
 
-Esta versión consolida el diseño del sistema, integrando funcionalidad, estética y narrativa visual. El proceso iterativo permitió pasar de una propuesta simplificada a una solución robusta, validada académicamente y lista para ser presentada como prototipo de media fidelidad.
 ---
-
 
 ## Evolución del diseño
 
