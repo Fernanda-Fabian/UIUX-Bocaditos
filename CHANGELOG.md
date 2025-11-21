@@ -71,6 +71,14 @@ La tercera versión del mockup representa una recreación fiel y completa del wi
 
 ---
 
+### Mockup v4 – Ajuste de diseño
+
+En esta 4ta version del mockup se reajusto el diseño haciendolo mas manejable y teniendo una mejor usabilidad, se añadio un mejor menu en donde es mas claro y alineado con los diagramas antes vistos
+- Se agrego un apartado de chat.
+- Se ajustaron los menus.
+- Se agregaron mas imagenes.
+
+
 ## Evolución del diseño
 
 El diseño avanza desde una representación funcional mínima hacia una versión más estructurada y visualmente preparada. A medida que se consolidó la lógica del sistema, se optimizó la navegación, se definieron los roles con mayor precisión y se integraron componentes que anticipan el prototipo de media fidelidad. Este proceso iterativo, validado por criterios académicos, buscó mejorar la accesibilidad, la claridad y el impacto social del sistema.
