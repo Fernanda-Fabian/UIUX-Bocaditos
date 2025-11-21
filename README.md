@@ -17,10 +17,12 @@ Este repositorio documenta el proceso de diseño de la interfaz del sistema *Boc
 
 **v1.0.0**  
 Última actualización: 6 de noviembre de 2025
+**v2.0.0**  
+Última actualización: 20 de noviembre de 2025
 
 ## Historial técnico
 
-El repositorio cuenta con más de **40 commits**, realizados durante la exploración inicial, organización de pantallas, ajustes funcionales y pruebas de navegación. Estos cambios reflejan el proceso iterativo de diseño, incluyendo pruebas de estructura, depuración de componentes y validación de estilo visual.
+El repositorio cuenta con más de **45 commits**, realizados durante la exploración inicial, organización de pantallas, ajustes funcionales y pruebas de navegación. Estos cambios reflejan el proceso iterativo de diseño, incluyendo pruebas de estructura, depuración de componentes y validación de estilo visual.
 
 El archivo `CHANGELOG.md` documenta la evolución entre versiones, detallando qué se modificó, por qué se hicieron los cambios y cómo avanza el diseño hacia una solución integral.
 
